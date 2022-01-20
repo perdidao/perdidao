@@ -6,4 +6,4 @@ If you wanna know more about me, [here's my website](https://lucasalmeida.dev/),
 
 Thanks for stopping by 🤜🤛
 
-![Lucas Almeida](http://lucasalmeida.cc/logo2.png "Lucas Almeida")
+![Lucas Almeida](http://lucasalmeida.cc/logo1.png "Lucas Almeida")
