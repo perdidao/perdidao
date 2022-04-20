@@ -6,7 +6,7 @@ I'm a brazilian web developer based in São Sebastião da Amoreira, Paraná, a p
 I started my carrer working as a web designer back in 2010, then migrated to frontend development with the help of a friend/professor/boss.  
 On my free time I generally stay with my two kids and on my free free time, I like to play online (mainly counter-strike).  
 
-## Education
+## Educational experience
 
 I'm a Advertisement and Marketing graduate with post-graduation courses on Multimedia Arts Direction (UNOPAR) and Web Development (UTFPR).  
 I also have a MBA on Project management (SENAI).  
