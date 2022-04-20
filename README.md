@@ -27,7 +27,7 @@ I've worked with on companies with a lot of clients from different areas, going 
     <a target='_blank' href="https://gamersclub.com.br/jogador/perdidao">
         <img src="https://img.shields.io/badge/gamersclub-08B5C0?style=for-the-badge&logo=groupon&logoColor=white">
     </a>
-    <a target='_blank' href="httpshttps://steamcommunity.com/id/perdidao/">
+    <a target='_blank' href="https://steamcommunity.com/id/perdidao/">
         <img src="https://img.shields.io/badge/steam-171a21?style=for-the-badge&logo=steam&logoColor=white">
     </a>
     <a target='_blank' href="https://twitter.com/lucasperdidao">
