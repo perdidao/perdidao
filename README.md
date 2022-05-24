@@ -17,7 +17,7 @@ My current stack is heavy on React with typescript and Nextjs, but sometimes I n
 I worked with a lot of different technologies on the past, like: Vuejs, Nuxtjs, Emberjs, Electron, React Native, Flutter, Thymeleaf, Wordpress, Woocommerce, Backbonejs with Marionette, Magento and others.  
 I also have experience on design tools like Photoshop, Sketch, Figma and Illustrator.  
   
-I've worked with on companies with a lot of clients from different areas, going from brazilian singers and bands, through non-governamental institutions like ONU, to big companies across the globe like Mc Donald's, Samsung, etc. I also worked on web, desktop and mobile apps.  
+I've worked for companies with a lot of clients from different areas, going from brazilian singers and bands, through non-governamental institutions like ONU, to big companies across the globe like Mc Donald's, Samsung, Volkswagen, Amstel, etc. I also worked on web, desktop and mobile apps.  
 
 ```mermaid
 
