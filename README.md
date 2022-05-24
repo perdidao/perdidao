@@ -23,6 +23,7 @@ I've worked for companies with a lot of clients from different areas, going from
 
 gantt
 dateFormat  YYYY-MM-DD
+todayMarker off
 title Companies I've worked for
 
 section Carreer
@@ -34,7 +35,7 @@ Estúdio FFW                           :active,, 2016-03-01,2017-06-01
 Unilab                                :active,, 2017-06-01,2018-07-01
 Slingshot Digital                     :active,, 2018-07-01,2019-07-01
 Farmbits - Belagrícola                :active,, 2019-07-01,2021-05-01
-Gamers Club                           :active,, 2021-05-01
+Gamers Club                           :active,, 2021-05-01,2022-05-01
 
 ```
 
