@@ -19,6 +19,24 @@ I also have experience on design tools like Photoshop, Sketch, Figma and Illustr
   
 I've worked with on companies with a lot of clients from different areas, going from brazilian singers and bands, through non-governamental institutions like ONU, to big companies across the globe like Mc Donald's, Samsung, etc. I also worked on web, desktop and mobile apps.  
 
+```mermaid
+
+gantt
+dateFormat  YYYY-MM-DD
+title Companies I've worked for
+
+section Carreer
+Cedilha Comunicação Digital           :done,, 2010-05-01,2012-05-01
+Bis2Bis Comércio Eletrônico           :done,, 2012-05-01,2013-06-01
+Advise Brasil                         :done,, 2013-06-01,2014-03-01
+ICOMP Agência Digital                 :done,, 2014-03-01,2016-03-01
+Unilab - Software para laboratórios   :done,, 2017-06-01,2018-07-01
+Slingshot Digital                     :done,, 2018-07-01,2019-07-01
+Farmbits - Belagrícola                :done,, 2019-07-01,2021-05-01
+Gamers Club                           :active,, 2021-05-01,2022-05-01
+
+```
+
 ## Connect
 <div>
     <a target='_blank' href="https://discordapp.com/users/423860463722299394">
