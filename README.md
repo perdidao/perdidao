@@ -27,15 +27,15 @@ todayMarker off
 title Companies I've worked for
 
 section Carreer
-Cedilha Comunicação Digital           :active,, 2010-05-01,2012-05-01
-Bis2Bis E-commerce                    :active,, 2012-05-01,2013-06-01
-Advise Brasil                         :active,, 2013-06-01,2014-03-01
+Cedilha Comunicação                   :active,, 2010-05-01,2012-05-01
+Bis2Bis                               :active,, 2012-05-01,2013-06-01
+Advise                                :active,, 2013-06-01,2014-03-01
 ICOMP Agência Digital                 :active,, 2014-03-01,2016-03-01
 Estúdio FFW                           :active,, 2016-03-01,2017-06-01
-Unilab                                :active,, 2017-06-01,2018-07-01
+Uniware                               :active,, 2017-06-01,2018-07-01
 Slingshot Digital                     :active,, 2018-07-01,2019-07-01
 Farmbits - Belagrícola                :active,, 2019-07-01,2021-05-01
-Gamers Club                           :active,, 2021-05-01,2022-05-01
+Gamers Club                           :active,, 2021-05-01,2022-08-09
 
 ```
 
