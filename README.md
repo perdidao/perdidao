@@ -35,7 +35,7 @@ Estúdio FFW                           :active,, 2016-03-01,2017-06-01
 Uniware                               :active,, 2017-06-01,2018-07-01
 Slingshot Digital                     :active,, 2018-07-01,2019-07-01
 Farmbits - Belagrícola                :active,, 2019-07-01,2021-05-01
-Gamers Club                           :active,, 2021-05-01,2022-08-09
+Gamers Club                           :active,, 2021-05-01,2022-09-28
 
 ```
 
