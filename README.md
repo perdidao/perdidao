@@ -56,7 +56,5 @@ Gamers Club                           :active,, 2021-05-01,2022-10-19
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>  
-
-[![Perdidão's GitHub stats](https://github-readme-stats.vercel.app/api?username=perdidao)](https://github.com/perdidao/github-readme-stats)
   
 Thanks for stopping by 🤜🤛
