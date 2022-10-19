@@ -35,8 +35,7 @@ Estúdio FFW                           :active,, 2016-03-01,2017-06-01
 Uniware                               :active,, 2017-06-01,2018-07-01
 Slingshot Digital                     :active,, 2018-07-01,2019-07-01
 Farmbits - Belagrícola                :active,, 2019-07-01,2021-05-01
-Gamers Club                           :active,, 2021-05-01,2022-09-28
-
+Gamers Club                           :active,, 2021-05-01,2022-10-19
 ```
 
 ## Connect
@@ -57,5 +56,7 @@ Gamers Club                           :active,, 2021-05-01,2022-09-28
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>  
+
+[![Perdidão's GitHub stats](https://github-readme-stats.vercel.app/api?username=perdidao)](https://github.com/perdidao/github-readme-stats)
   
 Thanks for stopping by 🤜🤛
