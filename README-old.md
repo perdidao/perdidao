@@ -42,4 +42,3 @@ I also have experience on design tools like Photoshop, Sketch, Figma and Illustr
 I've worked for companies with a lot of clients from different areas, going from brazilian singers and bands, through non-governamental institutions like ONU, to big companies across the globe like Mc Donald's, Samsung, Volkswagen, Amstel, etc. I also worked on web, desktop and mobile apps.  
   
 Thanks for stopping by 🤜🤛
-
