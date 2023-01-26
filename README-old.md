@@ -44,4 +44,3 @@ I've worked for companies with a lot of clients from different areas, going from
 Thanks for stopping by 🤜🤛
 
 
-
