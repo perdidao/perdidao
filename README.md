@@ -33,3 +33,9 @@ I've worked for companies with a lot of clients from different areas, going from
 | ![Slingshot Digital](https://i.imgur.com/wEDuyMS.png)                                     | Slingshot Digital           | July, 2018     | July, 2019    |
 | [![Farmbits](https://i.imgur.com/DCWo5qK.png)](https://conecta.belagricola.com.br)        | Farmbits                    | July, 2019     | May, 2021     |
 | [![Gamers Club](https://i.imgur.com/9Pl2uyg.png)](https://gamersclub.com.br)              | Gamers Club                 | May, 2021      | ∞             |
+
+## Tech skills
+
+![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=perdidao)  
+
+![CodersRank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=perdidao)  
