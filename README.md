@@ -22,7 +22,8 @@ I've worked for companies with a lot of clients from different areas, going from
 
 |                                                                                           | Company                     | Start date     | End date      |
 |:-----------------------------------------------------------------------------------------:|-----------------------------|----------------|---------------|
-| [![Gamers Club](https://i.imgur.com/9Pl2uyg.png)](https://gamersclub.com.br)              | Gamers Club                 | May, 2021      | ∞             |
+| [![GamerSafer](https://i.imgur.com/MxZi8Qk.png)](https://www.gamersafer.com)              | GamerSafer                  | Mar, 2026      | ∞             |
+| [![Gamers Club](https://i.imgur.com/9Pl2uyg.png)](https://gamersclub.com.br)              | Gamers Club                 | May, 2021      | Mar, 2026     |
 | [![Farmbits](https://i.imgur.com/DCWo5qK.png)](https://conecta.belagricola.com.br)        | Farmbits                    | July, 2019     | May, 2021     |
 | ![Slingshot Digital](https://i.imgur.com/wEDuyMS.png)                                     | Slingshot Digital           | July, 2018     | July, 2019    |
 | [![Uniware/Unilab](https://i.imgur.com/txldpb4.png)](https://unilab.com.br)               | Uniware/Unilab              | June, 2017     | July, 2018    |
